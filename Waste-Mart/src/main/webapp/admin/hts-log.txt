@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 04 Jan 2022 12:22:32 at https://modularcode.io/modular-admin-html/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://modularcode.io/modular-admin-html/index.html -O1 "D:\3167\admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:22:51	Error: 	"Not Found" (404) at link https://modularcode.io/modular-admin-html/apple-touch-icon.png (from https://modularcode.io/modular-admin-html/index.html)
+12:22:58	Error: 	"Forbidden" (403) at link https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg (from https://modularcode.io/modular-admin-html/index.html)
+12:22:58	Error: 	"Forbidden" (403) at link https://s3.amazonaws.com/uifaces/faces/twitter/_everaldo/128.jpg (from https://modularcode.io/modular-admin-html/index.html)
+12:22:58	Error: 	"Forbidden" (403) at link https://s3.amazonaws.com/uifaces/faces/twitter/eduardo_olv/128.jpg (from https://modularcode.io/modular-admin-html/index.html)
+12:22:58	Error: 	"Forbidden" (403) at link https://s3.amazonaws.com/uifaces/faces/twitter/why_this/128.jpg (from https://modularcode.io/modular-admin-html/index.html)
+12:22:58	Error: 	"Forbidden" (403) at link https://s3.amazonaws.com/uifaces/faces/twitter/w7download/128.jpg (from https://modularcode.io/modular-admin-html/index.html)
+12:22:58	Error: 	"Forbidden" (403) at link https://s3.amazonaws.com/uifaces/faces/twitter/pankogut/128.jpg (from https://modularcode.io/modular-admin-html/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 60 links scanned, 52 files written (4998991 bytes overall) [2063217 bytes received at 79354 bytes/sec], 4020536 bytes transferred using HTTP compression in 33 files, ratio 25%, 5.0 requests per connection
+(7 errors, 0 warnings, 0 messages)
